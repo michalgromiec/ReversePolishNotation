@@ -23,9 +23,9 @@ def licz(wejscie):
         '-': '__sub__',
         '*': '__mul__' # ,
         # '/': '__div__'
-        ## pierwiastek
-        ## customowe funkcje w których jest trzy lub wiećęj elementów
-        ## swoje operatory
+        ## pierwiastek DONE
+        ## customowe funkcje w których jest trzy lub wiećęj elementów DONE
+        ## swoje operatory DONE
         ## elementy większe niż float - co wtedy
     }
 
